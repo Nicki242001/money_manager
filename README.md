@@ -9,6 +9,12 @@ Aplikasi ini dirancang untuk membantu pengguna mengelola keuangan dengan mudah m
 
 ---
 
+## 📹 Video Presentasi
+Link video presentasi YouTube:
+👉 https://youtu.be/PJ44tFPs1hk
+
+---
+
 ## 👥 Anggota Kelompok (2 Orang)
 1. **Nama:** [Angelitha Irene Dyah Napitupulu]  
    **NIM:** [220040259]
